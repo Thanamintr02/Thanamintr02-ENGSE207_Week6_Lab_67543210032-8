@@ -27,6 +27,10 @@ Model-View-Controller (MVC)
 
 **Diagram**
 
+
+<img width="525" height="724" alt="image" src="https://github.com/user-attachments/assets/4f96382e-756c-4669-89f6-9321b14c90a0" />
+
+
 **Pros & Cons**
 **Pros:**
 
