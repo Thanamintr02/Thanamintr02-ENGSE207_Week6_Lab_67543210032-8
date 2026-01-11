@@ -26,7 +26,12 @@ Microservices Pattern
 
 API Gateway Pattern
 
+
 **Diagram**
+
+
+<img width="900" height="518" alt="image" src="https://github.com/user-attachments/assets/5cdf07b7-a994-4e51-8e06-811da3794bd8" />
+
 
 **Pros & Cons**
 **Pros:**
